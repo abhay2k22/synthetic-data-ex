@@ -1,0 +1,23 @@
+{
+    "tables": {
+        "users": {
+            "fields": {
+                "user_id": {
+                    "type": "id",
+                    "subtype": "integer"
+                },
+                "age": {
+                    "type": "numerical",
+                    "subtype": "integer"
+                },
+                "country": {
+                    "type": "categorical"
+                },
+                "gender": {
+                    "type": "categorical"
+                }
+            },
+            "primary_key": "user_id"
+        }
+    }
+}

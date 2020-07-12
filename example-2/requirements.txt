@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+copulas
+graphviz
+rdt
+pytz
+boto3
+scipy
+faker
