@@ -1,0 +1,46 @@
+{
+    "tables": {
+        "users": {
+            "fields": {
+                "gender": {
+                    "type": "categorical"
+                },
+                "age": {
+                    "type": "numerical",
+                    "subtype": "integer"
+                },
+                "user_id": {
+                    "type": "id",
+                    "subtype": "integer"
+                },
+                "country": {
+                    "type": "categorical"
+                }
+            },
+            "primary_key": "user_id"
+        },
+        "sessions": {
+            "fields": {
+                "device": {
+                    "type": "categorical"
+                },
+                "user_id": {
+                    "type": "id",
+                    "subtype": "integer",
+                    "ref": {
+                        "table": "users",
+                        "field": "user_id"
+                    }
+                },
+                "session_id": {
+                    "type": "id",
+                    "subtype": "integer"
+                },
+                "os": {
+                    "type": "categorical"
+                }
+            },
+            "primary_key": "session_id"
+        }
+    }
+}
