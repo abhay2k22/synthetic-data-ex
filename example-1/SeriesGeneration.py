@@ -20,12 +20,12 @@ def generateNoOfCases(df):
         val = np.random.choice(cases_list, p=weights, size=(1,))
         case_values.append(val[0])
 
-    synthetic_data = pd.DataFrame({'age': data['age'], 'cases': case_values})
+    synthetic_data = pd.DataFrame({'age': data['age'], 'case_in_country': case_values})
     return synthetic_data
 
 def plotCases(data, synthetic_data):
     original_data = data[['age', 'case_in_country']].groupby(['age']).count()
-    synthetic_data = synthetic_data[['age', 'cases']].groupby(['age']).count()
+    synthetic_data = synthetic_data[['age', 'case_in_country']].groupby(['age']).count()
 
     fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(12,6))
     original_data.plot(title='Real Data', ax=axes[0], subplots=True)
@@ -41,6 +41,7 @@ if __name__=="__main__":
     Loading Dataset.
     '''
     data = loadData('data.csv')
+    print(data.head(5))
     ''' Shape of Data. i.e No. of Rows to generate data for '''
     print("No of rows to be generated : {}".format(data.shape))
 
