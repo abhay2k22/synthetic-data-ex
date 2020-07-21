@@ -1,0 +1,636 @@
+,reporting date,country,gender,age,case_in_country
+197,1/25/2020,France,male,48.0,1.0
+198,1/25/2020,France,male,31.0,2.0
+199,1/25/2020,France,female,30.0,3.0
+200,1/28/2020,France,male,80.0,4.0
+209,2/25/2020,France,female,33.0,13.0
+210,2/25/2020,France,male,63.0,14.0
+211,2/26/2020,France,male,55.0,15.0
+212,2/26/2020,France,male,36.0,16.0
+213,2/26/2020,France,male,60.0,17.0
+214,2/26/2020,France,female,60.0,18.0
+226,2/27/2020,France,female,58.0,30.0
+227,2/27/2020,France,male,31.0,31.0
+229,2/27/2020,France,male,72.0,33.0
+231,2/27/2020,France,male,50.0,35.0
+233,2/27/2020,France,female,35.0,37.0
+235,2/28/2020,France,female,23.0,39.0
+236,1/15/2020,Japan,male,35.0,1.0
+237,1/24/2020,Japan,male,45.0,2.0
+238,1/25/2020,Japan,female,35.0,3.0
+239,1/26/2020,Japan,male,45.0,4.0
+240,1/28/2020,Japan,male,45.0,5.0
+241,1/28/2020,Japan,male,65.0,6.0
+242,1/28/2020,Japan,female,45.0,7.0
+243,1/29/2020,Japan,female,45.0,8.0
+244,1/30/2020,Japan,male,55.0,9.0
+245,1/30/2020,Japan,male,55.0,10.0
+246,1/30/2020,Japan,female,35.0,11.0
+247,1/30/2020,Japan,female,25.0,12.0
+248,1/31/2020,Japan,female,25.0,13.0
+249,02/01/20,Japan,male,45.0,14.0
+250,02/01/20,Japan,male,45.0,15.0
+251,02/01/20,Japan,male,35.0,16.0
+252,02/04/20,Japan,female,35.0,17.0
+253,02/04/20,Japan,female,55.0,18.0
+254,02/04/20,Japan,male,55.0,19.0
+255,02/05/20,Japan,male,45.0,20.0
+256,02/05/20,Japan,male,25.0,21.0
+257,02/05/20,Japan,male,55.0,22.0
+258,02/08/20,Japan,male,25.0,23.0
+259,02/10/20,Japan,male,45.0,24.0
+260,02/10/20,Japan,male,55.0,25.0
+262,2/13/2020,Japan,female,85.0,27.0
+263,2/13/2020,Japan,male,75.0,28.0
+264,2/13/2020,Japan,male,55.0,29.0
+265,2/13/2020,Japan,male,25.0,30.0
+266,2/14/2020,Japan,male,75.0,31.0
+267,2/14/2020,Japan,female,65.0,32.0
+268,2/14/2020,Japan,female,55.0,33.0
+269,2/14/2020,Japan,male,75.0,34.0
+270,2/14/2020,Japan,male,65.0,35.0
+271,2/14/2020,Japan,male,55.0,36.0
+272,2/14/2020,Japan,male,35.0,37.0
+273,2/15/2020,Japan,male,55.0,38.0
+274,2/15/2020,Japan,female,55.0,39.0
+275,2/15/2020,Japan,male,65.0,40.0
+276,2/15/2020,Japan,female,65.0,41.0
+277,2/15/2020,Japan,female,65.0,42.0
+278,2/15/2020,Japan,male,45.0,43.0
+279,2/16/2020,Japan,male,65.0,44.0
+280,2/16/2020,Japan,male,35.0,45.0
+281,2/16/2020,Japan,male,65.0,46.0
+282,2/16/2020,Japan,male,65.0,47.0
+283,2/17/2020,Japan,male,65.0,48.0
+284,2/17/2020,Japan,female,85.0,49.0
+285,2/17/2020,Japan,female,55.0,50.0
+286,2/17/2020,Japan,male,55.0,51.0
+287,2/17/2020,Japan,male,55.0,52.0
+288,2/17/2020,Japan,female,45.0,53.0
+289,2/18/2020,Japan,male,65.0,54.0
+290,2/18/2020,Japan,male,35.0,55.0
+291,2/18/2020,Japan,male,85.0,56.0
+292,2/18/2020,Japan,male,25.0,57.0
+293,2/18/2020,Japan,male,55.0,58.0
+294,2/18/2020,Japan,male,65.0,59.0
+295,2/19/2020,Japan,male,85.0,60.0
+296,2/19/2020,Japan,male,75.0,61.0
+297,2/19/2020,Japan,male,65.0,62.0
+298,2/19/2020,Japan,male,45.0,63.0
+299,2/19/2020,Japan,male,65.0,64.0
+300,2/19/2020,Japan,male,65.0,65.0
+301,2/19/2020,Japan,male,75.0,66.0
+302,2/19/2020,Japan,female,75.0,67.0
+303,2/19/2020,Japan,female,75.0,68.0
+304,2/19/2020,Japan,female,55.0,69.0
+305,2/19/2020,Japan,male,55.0,70.0
+306,2/20/2020,Japan,male,65.0,71.0
+307,2/20/2020,Japan,male,45.0,72.0
+308,2/20/2020,Japan,female,75.0,73.0
+309,2/20/2020,Japan,male,85.0,74.0
+312,2/20/2020,Japan,male,85.0,77.0
+313,2/20/2020,Japan,male,85.0,78.0
+314,2/20/2020,Japan,female,65.0,79.0
+315,2/21/2020,Japan,male,5.0,80.0
+316,2/21/2020,Japan,male,15.0,81.0
+317,2/21/2020,Japan,female,45.0,82.0
+318,2/21/2020,Japan,male,55.0,83.0
+320,2/21/2020,Japan,female,55.0,85.0
+321,2/21/2020,Japan,female,75.0,86.0
+322,2/21/2020,Japan,female,55.0,87.0
+323,2/21/2020,Japan,male,65.0,88.0
+324,2/21/2020,Japan,male,85.0,89.0
+325,2/21/2020,Japan,male,75.0,90.0
+326,2/21/2020,Japan,female,25.0,91.0
+327,2/22/2020,Japan,female,25.0,92.0
+328,2/22/2020,Japan,male,55.0,93.0
+329,2/22/2020,Japan,male,65.0,94.0
+330,2/22/2020,Japan,male,45.0,95.0
+331,2/22/2020,Japan,female,65.0,96.0
+332,2/22/2020,Japan,female,55.0,97.0
+333,2/22/2020,Japan,female,75.0,98.0
+334,2/22/2020,Japan,male,85.0,99.0
+335,2/22/2020,Japan,male,75.0,100.0
+336,2/22/2020,Japan,female,55.0,101.0
+337,2/22/2020,Japan,male,65.0,102.0
+338,2/22/2020,Japan,female,55.0,103.0
+339,2/22/2020,Japan,female,15.0,104.0
+340,2/22/2020,Japan,female,55.0,105.0
+341,2/22/2020,Japan,male,65.0,106.0
+342,2/22/2020,Japan,female,65.0,107.0
+343,2/22/2020,Japan,female,46.0,108.0
+344,2/22/2020,Japan,male,65.0,109.0
+345,2/22/2020,Japan,male,65.0,110.0
+346,2/22/2020,Japan,female,65.0,111.0
+347,2/22/2020,Japan,male,55.0,112.0
+348,2/22/2020,Japan,male,55.0,113.0
+349,2/23/2020,Japan,male,75.0,114.0
+350,2/23/2020,Japan,female,75.0,115.0
+351,2/23/2020,Japan,male,75.0,116.0
+352,2/23/2020,Japan,male,45.0,117.0
+353,2/23/2020,Japan,male,35.0,118.0
+354,2/23/2020,Japan,female,65.0,119.0
+355,2/23/2020,Japan,male,25.0,120.0
+356,2/23/2020,Japan,male,75.0,121.0
+357,2/23/2020,Japan,female,35.0,122.0
+358,2/23/2020,Japan,male,85.0,123.0
+359,2/23/2020,Japan,female,45.0,124.0
+360,2/23/2020,Japan,female,25.0,125.0
+361,2/23/2020,Japan,female,55.0,126.0
+362,2/23/2020,Japan,male,55.0,127.0
+363,2/24/2020,Japan,male,65.0,128.0
+364,2/24/2020,Japan,female,75.0,129.0
+365,2/24/2020,Japan,male,55.0,130.0
+366,2/24/2020,Japan,female,25.0,131.0
+367,2/24/2020,Japan,male,55.0,132.0
+368,2/24/2020,Japan,male,55.0,133.0
+369,2/24/2020,Japan,male,45.0,134.0
+370,2/24/2020,Japan,male,55.0,135.0
+371,2/24/2020,Japan,male,35.0,136.0
+372,2/24/2020,Japan,female,55.0,137.0
+373,2/24/2020,Japan,female,25.0,138.0
+374,2/24/2020,Japan,female,25.0,139.0
+375,2/25/2020,Japan,male,65.0,140.0
+376,2/25/2020,Japan,male,55.0,141.0
+377,2/25/2020,Japan,female,65.0,142.0
+378,2/25/2020,Japan,female,65.0,143.0
+379,2/25/2020,Japan,female,55.0,144.0
+380,2/25/2020,Japan,female,75.0,145.0
+381,2/25/2020,Japan,female,75.0,146.0
+382,2/25/2020,Japan,female,45.0,147.0
+383,2/26/2020,Japan,male,55.0,148.0
+384,2/26/2020,Japan,male,65.0,149.0
+385,2/26/2020,Japan,male,75.0,150.0
+386,2/26/2020,Japan,male,25.0,151.0
+387,2/26/2020,Japan,female,25.0,152.0
+388,2/26/2020,Japan,male,75.0,153.0
+390,2/26/2020,Japan,female,75.0,155.0
+391,2/26/2020,Japan,female,75.0,156.0
+392,2/26/2020,Japan,male,45.0,157.0
+393,2/26/2020,Japan,male,65.0,158.0
+394,2/26/2020,Japan,female,45.0,159.0
+395,2/26/2020,Japan,male,85.0,160.0
+396,2/26/2020,Japan,male,75.0,161.0
+397,2/26/2020,Japan,male,75.0,162.0
+398,2/26/2020,Japan,male,55.0,163.0
+399,2/26/2020,Japan,male,65.0,164.0
+400,2/26/2020,Japan,male,75.0,165.0
+401,2/26/2020,Japan,male,75.0,166.0
+402,2/26/2020,Japan,female,75.0,167.0
+403,2/27/2020,Japan,male,55.0,168.0
+404,2/27/2020,Japan,female,55.0,169.0
+405,2/27/2020,Japan,male,55.0,170.0
+406,2/27/2020,Japan,male,55.0,171.0
+407,2/27/2020,Japan,female,60.0,172.0
+408,2/27/2020,Japan,male,45.0,173.0
+409,2/27/2020,Japan,male,55.0,174.0
+410,2/27/2020,Japan,male,55.0,175.0
+411,2/27/2020,Japan,male,35.0,176.0
+412,2/27/2020,Japan,male,75.0,177.0
+413,2/27/2020,Japan,male,65.0,178.0
+414,2/27/2020,Japan,male,45.0,179.0
+415,2/27/2020,Japan,male,45.0,180.0
+416,2/27/2020,Japan,male,5.0,181.0
+417,2/27/2020,Japan,male,35.0,182.0
+418,2/27/2020,Japan,male,5.0,183.0
+419,2/27/2020,Japan,male,85.0,184.0
+420,2/27/2020,Japan,male,35.0,185.0
+421,2/27/2020,Japan,male,85.0,186.0
+422,2/27/2020,Japan,male,65.0,187.0
+423,2/27/2020,Japan,female,45.0,188.0
+424,2/27/2020,Japan,female,65.0,189.0
+425,2/27/2020,Japan,male,65.0,190.0
+426,1/24/2020,Malaysia,male,40.0,1.0
+427,1/25/2020,Malaysia,female,65.0,2.0
+428,1/25/2020,Malaysia,male,11.0,3.0
+429,1/25/2020,Malaysia,male,2.0,4.0
+430,1/29/2020,Malaysia,female,4.0,5.0
+431,1/29/2020,Malaysia,female,36.0,6.0
+432,1/29/2020,Malaysia,male,52.0,7.0
+433,1/30/2020,Malaysia,female,49.0,8.0
+434,02/04/20,Malaysia,male,41.0,9.0
+435,02/04/20,Malaysia,male,63.0,10.0
+436,02/05/20,Malaysia,male,45.0,11.0
+437,02/05/20,Malaysia,male,9.0,12.0
+438,02/06/20,Malaysia,female,40.0,13.0
+439,02/06/20,Malaysia,female,37.0,14.0
+440,02/07/20,Malaysia,female,59.0,15.0
+441,02/08/20,Malaysia,female,67.0,16.0
+442,02/09/20,Malaysia,female,65.0,17.0
+443,02/10/20,Malaysia,male,31.0,18.0
+444,2/13/2020,Malaysia,female,39.0,19.0
+445,2/16/2020,Malaysia,male,27.0,20.0
+446,2/16/2020,Malaysia,female,32.0,21.0
+447,2/16/2020,Malaysia,female,83.0,22.0
+448,2/27/2020,Malaysia,female,53.0,23.0
+449,1/25/2020,Nepal,male,32.0,1.0
+450,1/24/2020,Singapore,male,66.0,1.0
+451,1/24/2020,Singapore,female,53.0,2.0
+452,1/24/2020,Singapore,male,37.0,3.0
+453,1/26/2020,Singapore,male,36.0,4.0
+454,1/27/2020,Singapore,female,56.0,5.0
+455,1/28/2020,Singapore,male,56.0,6.0
+456,1/28/2020,Singapore,male,35.0,7.0
+457,1/29/2020,Singapore,female,56.0,8.0
+458,1/29/2020,Singapore,male,56.0,9.0
+459,1/29/2020,Singapore,male,56.0,10.0
+460,1/30/2020,Singapore,female,31.0,11.0
+461,1/30/2020,Singapore,female,37.0,12.0
+462,1/30/2020,Singapore,female,73.0,13.0
+463,1/31/2020,Singapore,male,31.0,14.0
+464,1/31/2020,Singapore,female,47.0,15.0
+465,1/31/2020,Singapore,male,38.0,16.0
+466,02/01/20,Singapore,female,47.0,17.0
+467,02/01/20,Singapore,female,31.0,18.0
+468,02/04/20,Singapore,female,28.0,19.0
+469,02/04/20,Singapore,female,48.0,20.0
+470,02/04/20,Singapore,female,44.0,21.0
+473,02/04/20,Singapore,female,32.0,24.0
+475,02/05/20,Singapore,female,42.0,26.0
+476,02/05/20,Singapore,male,0.5,27.0
+477,02/05/20,Singapore,male,45.0,28.0
+478,02/06/20,Singapore,male,41.0,29.0
+479,02/06/20,Singapore,male,27.0,30.0
+480,02/07/20,Singapore,male,53.0,31.0
+481,02/07/20,Singapore,female,42.0,32.0
+482,02/07/20,Singapore,female,39.0,33.0
+483,02/08/20,Singapore,female,40.0,34.0
+484,02/08/20,Singapore,male,64.0,35.0
+485,02/08/20,Singapore,female,38.0,36.0
+486,02/08/20,Singapore,male,53.0,37.0
+487,02/08/20,Singapore,female,52.0,38.0
+488,02/08/20,Singapore,male,51.0,39.0
+489,02/08/20,Singapore,male,36.0,40.0
+490,02/09/20,Singapore,male,71.0,41.0
+491,02/09/20,Singapore,male,39.0,42.0
+492,02/09/20,Singapore,male,54.0,43.0
+493,02/10/20,Singapore,male,37.0,44.0
+494,02/10/20,Singapore,female,2.0,45.0
+495,02/11/20,Singapore,male,35.0,46.0
+496,02/11/20,Singapore,male,39.0,47.0
+497,02/12/20,Singapore,male,34.0,48.0
+498,02/12/20,Singapore,male,46.0,49.0
+499,02/12/20,Singapore,male,62.0,50.0
+500,2/13/2020,Singapore,male,48.0,51.0
+501,2/13/2020,Singapore,male,37.0,52.0
+502,2/13/2020,Singapore,male,54.0,53.0
+503,2/13/2020,Singapore,female,55.0,54.0
+504,2/13/2020,Singapore,male,30.0,55.0
+505,2/13/2020,Singapore,male,30.0,56.0
+506,2/13/2020,Singapore,male,26.0,57.0
+507,2/13/2020,Singapore,male,55.0,58.0
+508,2/14/2020,Singapore,male,61.0,59.0
+509,2/14/2020,Singapore,female,51.0,60.0
+510,2/14/2020,Singapore,male,57.0,61.0
+511,2/14/2020,Singapore,female,44.0,62.0
+512,2/14/2020,Singapore,female,54.0,63.0
+513,2/14/2020,Singapore,male,50.0,64.0
+514,2/14/2020,Singapore,female,61.0,65.0
+515,2/14/2020,Singapore,male,28.0,66.0
+516,2/14/2020,Singapore,female,56.0,67.0
+517,2/15/2020,Singapore,female,79.0,68.0
+518,2/15/2020,Singapore,male,26.0,69.0
+519,2/15/2020,Singapore,female,27.0,70.0
+520,2/15/2020,Singapore,male,25.0,71.0
+521,2/15/2020,Singapore,male,40.0,72.0
+522,2/16/2020,Singapore,male,43.0,73.0
+523,2/16/2020,Singapore,male,29.0,74.0
+524,2/16/2020,Singapore,female,71.0,75.0
+525,2/17/2020,Singapore,male,1.0,76.0
+526,2/17/2020,Singapore,male,35.0,77.0
+527,2/18/2020,Singapore,female,57.0,78.0
+528,2/18/2020,Singapore,female,35.0,79.0
+529,2/18/2020,Singapore,female,38.0,80.0
+530,2/18/2020,Singapore,male,50.0,81.0
+531,2/19/2020,Singapore,female,57.0,82.0
+532,2/19/2020,Singapore,male,54.0,83.0
+533,2/19/2020,Singapore,female,35.0,84.0
+534,2/19/2020,Singapore,male,36.0,85.0
+535,2/21/2020,Singapore,male,24.0,86.0
+536,2/22/2020,Singapore,male,32.0,87.0
+537,2/22/2020,Singapore,female,30.0,88.0
+538,2/22/2020,Singapore,male,41.0,89.0
+539,2/24/2020,Singapore,female,75.0,90.0
+540,2/25/2020,Singapore,female,58.0,91.0
+541,2/26/2020,Singapore,male,47.0,92.0
+542,2/26/2020,Singapore,male,38.0,93.0
+543,1/20/2020,South Korea,female,35.0,1.0
+544,1/24/2020,South Korea,male,55.0,2.0
+545,1/25/2020,South Korea,male,54.0,3.0
+546,1/27/2020,South Korea,male,55.0,4.0
+547,1/30/2020,South Korea,male,32.0,5.0
+548,1/30/2020,South Korea,male,56.0,6.0
+549,1/31/2020,South Korea,male,28.0,7.0
+550,1/31/2020,South Korea,female,62.0,8.0
+551,1/30/2020,South Korea,female,28.0,9.0
+552,1/31/2020,South Korea,female,52.0,10.0
+553,1/31/2020,South Korea,male,25.0,11.0
+554,02/01/20,South Korea,male,48.0,12.0
+555,02/02/20,South Korea,male,28.0,13.0
+556,02/02/20,South Korea,female,40.0,14.0
+557,02/02/20,South Korea,male,43.0,15.0
+558,02/04/20,South Korea,female,42.0,16.0
+559,02/05/20,South Korea,male,37.0,17.0
+560,02/05/20,South Korea,female,21.0,18.0
+561,02/05/20,South Korea,male,36.0,19.0
+562,02/06/20,South Korea,female,41.0,20.0
+563,02/06/20,South Korea,female,59.0,21.0
+564,02/06/20,South Korea,male,46.0,22.0
+565,02/06/20,South Korea,female,58.0,23.0
+566,02/07/20,South Korea,male,28.0,24.0
+567,02/09/20,South Korea,female,73.0,25.0
+568,02/09/20,South Korea,male,51.0,26.0
+569,02/09/20,South Korea,female,37.0,27.0
+570,02/11/20,South Korea,female,30.0,28.0
+571,2/16/2020,South Korea,male,82.0,29.0
+572,2/17/2020,South Korea,female,68.0,30.0
+573,2/18/2020,South Korea,female,61.0,31.0
+574,2/19/2020,South Korea,female,11.0,32.0
+575,2/19/2020,South Korea,female,40.0,33.0
+576,2/19/2020,South Korea,male,24.0,34.0
+577,2/19/2020,South Korea,female,26.0,35.0
+578,2/19/2020,South Korea,female,48.0,36.0
+579,2/19/2020,South Korea,male,49.0,37.0
+580,2/19/2020,South Korea,female,57.0,38.0
+581,2/19/2020,South Korea,female,61.0,39.0
+582,2/19/2020,South Korea,male,77.0,40.0
+583,2/19/2020,South Korea,female,69.0,41.0
+584,2/19/2020,South Korea,female,29.0,42.0
+585,2/19/2020,South Korea,female,58.0,43.0
+586,2/19/2020,South Korea,female,46.0,44.0
+587,2/19/2020,South Korea,female,54.0,45.0
+588,2/19/2020,South Korea,male,28.0,46.0
+589,2/19/2020,South Korea,female,63.0,47.0
+590,2/19/2020,South Korea,female,72.0,48.0
+591,2/19/2020,South Korea,male,58.0,49.0
+592,2/19/2020,South Korea,male,76.0,50.0
+593,2/19/2020,South Korea,female,61.0,51.0
+594,2/20/2020,South Korea,male,24.0,52.0
+595,2/20/2020,South Korea,female,38.0,53.0
+596,2/20/2020,South Korea,male,57.0,54.0
+597,2/20/2020,South Korea,male,59.0,55.0
+598,2/20/2020,South Korea,male,75.0,56.0
+599,2/20/2020,South Korea,male,30.0,57.0
+600,2/20/2020,South Korea,female,26.0,58.0
+601,2/20/2020,South Korea,female,34.0,59.0
+602,2/20/2020,South Korea,female,59.0,60.0
+603,2/20/2020,South Korea,female,58.0,61.0
+604,2/20/2020,South Korea,male,60.0,62.0
+605,2/20/2020,South Korea,female,52.0,63.0
+606,2/20/2020,South Korea,female,59.0,64.0
+607,2/20/2020,South Korea,female,50.0,65.0
+608,2/20/2020,South Korea,male,22.0,66.0
+609,2/20/2020,South Korea,female,30.0,67.0
+610,2/20/2020,South Korea,female,56.0,68.0
+611,2/20/2020,South Korea,male,29.0,69.0
+612,2/20/2020,South Korea,female,48.0,70.0
+613,2/20/2020,South Korea,female,56.0,71.0
+614,2/20/2020,South Korea,female,39.0,72.0
+615,2/20/2020,South Korea,female,20.0,73.0
+616,2/20/2020,South Korea,male,49.0,74.0
+617,2/20/2020,South Korea,female,23.0,75.0
+618,2/20/2020,South Korea,male,36.0,76.0
+619,2/20/2020,South Korea,female,57.0,77.0
+620,2/20/2020,South Korea,male,55.0,78.0
+621,2/20/2020,South Korea,female,22.0,79.0
+622,2/20/2020,South Korea,female,34.0,80.0
+623,2/20/2020,South Korea,female,65.0,81.0
+624,2/20/2020,South Korea,male,64.0,82.0
+647,2/20/2020,South Korea,male,67.0,107.0
+648,2/20/2020,South Korea,male,74.0,114.0
+649,2/21/2020,South Korea,male,35.0,161.0
+650,2/22/2020,South Korea,male,62.0,286.0
+651,2/22/2020,South Korea,male,58.0,298.0
+652,2/22/2020,South Korea,male,62.0,365.0
+653,2/23/2020,South Korea,male,41.0,443.0
+654,2/23/2020,South Korea,male,36.0,875.0
+655,2/25/2020,South Korea,female,69.0,925.0
+656,2/26/2020,South Korea,male,75.0,1443.0
+657,1/21/2020,Taiwan,female,55.0,1.0
+658,1/24/2020,Taiwan,female,55.0,2.0
+659,1/24/2020,Taiwan,male,55.0,3.0
+660,1/27/2020,Taiwan,female,50.0,4.0
+661,1/27/2020,Taiwan,female,50.0,5.0
+662,1/28/2020,Taiwan,female,70.0,6.0
+663,1/28/2020,Taiwan,female,70.0,7.0
+664,1/28/2020,Taiwan,male,55.0,8.0
+667,02/05/20,Taiwan,male,55.0,11.0
+668,02/06/20,Taiwan,male,45.0,12.0
+669,02/06/20,Taiwan,female,25.0,13.0
+670,02/06/20,Taiwan,male,55.0,14.0
+671,02/06/20,Taiwan,female,55.0,15.0
+672,02/06/20,Taiwan,female,45.0,16.0
+673,02/08/20,Taiwan,male,25.0,17.0
+674,02/08/20,Taiwan,male,25.0,18.0
+675,2/16/2020,Taiwan,male,65.0,19.0
+676,2/16/2020,Taiwan,male,55.0,20.0
+677,2/17/2020,Taiwan,female,85.0,21.0
+678,2/17/2020,Taiwan,male,35.0,22.0
+679,2/19/2020,Taiwan,female,65.0,23.0
+680,2/20/2020,Taiwan,female,60.0,24.0
+681,2/21/2020,Taiwan,female,45.0,25.0
+682,2/21/2020,Taiwan,female,25.0,26.0
+683,2/23/2020,Taiwan,male,85.0,27.0
+684,2/23/2020,Taiwan,male,55.0,28.0
+685,2/24/2020,Taiwan,male,45.0,29.0
+686,2/24/2020,Taiwan,female,75.0,30.0
+688,2/26/2020,Taiwan,female,35.0,32.0
+689,2/28/2020,Taiwan,male,35.0,33.0
+690,2/28/2020,Taiwan,female,55.0,34.0
+691,1/13/2020,Thailand,female,61.0,1.0
+692,1/17/2020,Thailand,female,74.0,2.0
+693,1/22/2020,Thailand,male,68.0,3.0
+694,1/22/2020,Thailand,female,73.0,4.0
+696,1/24/2020,Thailand,female,33.0,6.0
+697,1/26/2020,Thailand,female,57.0,7.0
+698,1/26/2020,Thailand,female,73.0,8.0
+710,1/31/2020,Thailand,male,50.0,20.0
+714,02/04/20,Thailand,male,70.0,24.0
+723,02/11/20,Thailand,female,54.0,33.0
+724,2/15/2020,Thailand,female,35.0,34.0
+725,2/16/2020,Thailand,female,60.0,35.0
+726,2/25/2020,Thailand,female,31.0,36.0
+727,2/25/2020,Thailand,male,29.0,37.0
+730,2/26/2020,Thailand,male,8.0,40.0
+731,2/28/2020,Thailand,male,25.0,41.0
+732,1/21/2020,USA,male,35.0,1.0
+733,1/24/2020,USA,female,61.0,2.0
+737,1/30/2020,USA,male,65.0,6.0
+739,1/31/2020,USA,male,25.0,8.0
+740,02/03/20,USA,male,57.0,9.0
+741,02/03/20,USA,female,57.0,10.0
+750,1/23/2020,Vietnam,male,66.0,1.0
+751,1/23/2020,Vietnam,male,28.0,2.0
+758,02/04/20,Vietnam,male,30.0,9.0
+759,02/04/20,Vietnam,female,42.0,10.0
+760,02/06/20,Vietnam,female,16.0,11.0
+762,02/08/20,Vietnam,female,29.0,13.0
+763,02/09/20,Vietnam,female,55.0,14.0
+765,2/13/2020,Vietnam,male,50.0,16.0
+766,1/25/2020,Australia,male,35.0,1.0
+767,1/25/2020,Australia,male,43.0,2.0
+768,1/25/2020,Australia,male,53.0,3.0
+769,1/25/2020,Australia,male,55.0,4.0
+770,1/26/2020,Australia,female,21.0,5.0
+771,1/29/2020,Australia,male,44.0,6.0
+772,1/29/2020,Australia,male,65.0,7.0
+773,1/30/2020,Australia,female,45.0,8.0
+774,1/31/2020,Australia,female,42.0,9.0
+775,02/01/20,Australia,male,60.0,10.0
+776,02/01/20,Australia,female,60.0,11.0
+777,02/01/20,Australia,female,25.0,12.0
+778,02/04/20,Australia,male,8.0,13.0
+779,02/05/20,Australia,male,37.0,14.0
+780,02/06/20,Australia,female,37.0,15.0
+781,1/26/2020,Canada,male,56.0,1.0
+782,1/27/2020,Canada,female,55.0,2.0
+783,1/28/2020,Canada,male,45.0,3.0
+784,02/01/20,Canada,female,25.0,4.0
+785,02/05/20,Canada,female,55.0,5.0
+786,02/06/20,Canada,male,35.0,6.0
+787,02/06/20,Canada,female,35.0,7.0
+788,2/14/2020,Canada,female,35.0,8.0
+789,2/21/2020,Canada,female,35.0,9.0
+790,2/24/2020,Canada,female,25.0,10.0
+791,2/24/2020,Canada,male,45.0,11.0
+792,2/27/2020,Canada,female,65.0,12.0
+793,1/27/2020,Cambodia,male,60.0,1.0
+794,1/28/2020,Sri Lanka,female,40.0,1.0
+795,1/28/2020,Germany,male,33.0,1.0
+801,1/31/2020,Germany,male,52.0,7.0
+802,02/01/20,Germany,male,33.0,8.0
+806,02/05/20,Germany,male,58.0,12.0
+809,02/11/20,Germany,male,49.0,15.0
+811,2/26/2020,Germany,male,25.0,17.0
+812,2/26/2020,Germany,male,60.0,18.0
+813,2/26/2020,Germany,female,24.0,19.0
+814,2/26/2020,Germany,male,32.0,20.0
+815,2/26/2020,Germany,male,47.0,21.0
+816,2/26/2020,Germany,female,46.0,22.0
+817,2/26/2020,Germany,male,41.0,23.0
+842,2/27/2020,Germany,male,31.0,48.0
+847,2/28/2020,Germany,male,32.0,53.0
+849,1/29/2020,UAE,female,73.0,1.0
+850,1/29/2020,UAE,female,36.0,2.0
+851,1/29/2020,UAE,male,41.0,3.0
+852,1/29/2020,UAE,male,8.0,4.0
+857,2/16/2020,UAE,male,37.0,9.0
+860,2/22/2020,UAE,male,70.0,12.0
+861,2/22/2020,UAE,female,64.0,13.0
+870,1/22/2020,Hong Kong,male,39.0,1.0
+871,1/22/2020,Hong Kong,male,56.0,2.0
+872,1/24/2020,Hong Kong,female,62.0,3.0
+873,1/24/2020,Hong Kong,female,62.0,4.0
+874,1/24/2020,Hong Kong,male,63.0,5.0
+875,1/27/2020,Hong Kong,male,47.0,6.0
+876,1/27/2020,Hong Kong,female,68.0,7.0
+877,1/27/2020,Hong Kong,male,64.0,8.0
+878,1/29/2020,Hong Kong,female,73.0,9.0
+879,1/29/2020,Hong Kong,male,72.0,10.0
+880,1/30/2020,Hong Kong,female,37.0,11.0
+881,1/30/2020,Hong Kong,male,75.0,12.0
+882,1/31/2020,Hong Kong,male,39.0,13.0
+883,02/02/20,Hong Kong,male,80.0,14.0
+884,02/02/20,Hong Kong,female,72.0,15.0
+885,02/04/20,Hong Kong,female,64.0,16.0
+886,02/04/20,Hong Kong,male,60.0,17.0
+887,02/04/20,Hong Kong,male,25.0,18.0
+888,02/05/20,Hong Kong,female,56.0,19.0
+889,02/05/20,Hong Kong,female,28.0,20.0
+890,02/05/20,Hong Kong,male,56.0,21.0
+891,02/06/20,Hong Kong,female,55.0,22.0
+892,02/06/20,Hong Kong,female,63.0,23.0
+893,02/06/20,Hong Kong,female,65.0,24.0
+894,02/07/20,Hong Kong,male,58.0,25.0
+895,02/07/20,Hong Kong,male,42.0,26.0
+896,02/09/20,Hong Kong,male,24.0,27.0
+897,02/09/20,Hong Kong,male,70.0,28.0
+898,02/09/20,Hong Kong,male,68.0,29.0
+899,02/09/20,Hong Kong,female,57.0,30.0
+900,02/09/20,Hong Kong,female,91.0,31.0
+901,02/09/20,Hong Kong,female,51.0,32.0
+902,02/09/20,Hong Kong,female,25.0,33.0
+903,02/09/20,Hong Kong,male,22.0,34.0
+904,02/09/20,Hong Kong,female,50.0,35.0
+905,02/09/20,Hong Kong,male,23.0,36.0
+906,02/10/20,Hong Kong,female,55.0,37.0
+907,02/10/20,Hong Kong,male,52.0,38.0
+908,02/10/20,Hong Kong,male,69.0,39.0
+909,02/10/20,Hong Kong,female,63.0,40.0
+910,02/10/20,Hong Kong,female,86.0,41.0
+911,02/10/20,Hong Kong,female,62.0,42.0
+912,02/11/20,Hong Kong,male,59.0,43.0
+913,02/11/20,Hong Kong,female,60.0,44.0
+914,02/11/20,Hong Kong,male,71.0,45.0
+915,02/11/20,Hong Kong,male,37.0,46.0
+916,02/11/20,Hong Kong,male,66.0,47.0
+917,02/11/20,Hong Kong,female,37.0,48.0
+918,02/11/20,Hong Kong,male,75.0,49.0
+919,02/12/20,Hong Kong,male,51.0,50.0
+920,2/13/2020,Hong Kong,male,43.0,51.0
+921,2/13/2020,Hong Kong,female,67.0,52.0
+922,2/13/2020,Hong Kong,male,37.0,53.0
+923,2/14/2020,Hong Kong,female,41.0,54.0
+924,2/14/2020,Hong Kong,male,70.0,55.0
+926,2/16/2020,Hong Kong,male,54.0,57.0
+927,2/17/2020,Hong Kong,male,69.0,58.0
+928,2/17/2020,Hong Kong,male,45.0,59.0
+929,2/17/2020,Hong Kong,female,46.0,60.0
+930,2/18/2020,Hong Kong,female,32.0,61.0
+931,2/18/2020,Hong Kong,male,58.0,62.0
+932,2/19/2020,Hong Kong,female,83.0,63.0
+933,2/19/2020,Hong Kong,female,83.0,63.0
+934,2/19/2020,Hong Kong,male,68.0,64.0
+935,2/19/2020,Hong Kong,female,70.0,65.0
+936,2/20/2020,Hong Kong,male,75.0,66.0
+937,2/20/2020,Hong Kong,female,38.0,67.0
+938,2/20/2020,Hong Kong,male,58.0,68.0
+939,2/20/2020,Hong Kong,male,48.0,69.0
+940,2/22/2020,Hong Kong,female,96.0,70.0
+941,2/23/2020,Hong Kong,male,68.0,71.0
+942,2/23/2020,Hong Kong,male,62.0,72.0
+943,2/23/2020,Hong Kong,female,80.0,73.0
+944,2/23/2020,Hong Kong,female,76.0,74.0
+945,2/24/2020,Hong Kong,male,35.0,75.0
+946,2/24/2020,Hong Kong,female,57.0,76.0
+947,2/24/2020,Hong Kong,female,68.0,77.0
+948,2/24/2020,Hong Kong,female,59.0,78.0
+949,2/24/2020,Hong Kong,female,58.0,79.0
+950,2/24/2020,Hong Kong,male,57.0,80.0
+951,2/24/2020,Hong Kong,female,57.0,81.0
+952,2/25/2020,Hong Kong,male,33.0,82.0
+953,2/25/2020,Hong Kong,female,55.0,83.0
+954,2/25/2020,Hong Kong,male,24.0,84.0
+955,2/25/2020,Hong Kong,female,60.0,85.0
+956,2/26/2020,Hong Kong,female,49.0,86.0
+957,2/26/2020,Hong Kong,female,21.0,87.0
+958,2/26/2020,Hong Kong,male,16.0,88.0
+959,2/26/2020,Hong Kong,male,80.0,89.0
+960,2/26/2020,Hong Kong,female,29.0,90.0
+961,2/26/2020,Hong Kong,male,26.0,91.0
+962,2/27/2020,Hong Kong,female,70.0,92.0
+963,2/27/2020,Hong Kong,female,89.0,93.0
+966,02/06/20,Italy,male,35.0,3.0
+971,02/06/20,UK,male,53.0,3.0
+992,02/02/20,Phillipines,male,44.0,1.0
+993,02/02/20,Phillipines,female,38.0,2.0
+994,02/05/20,Phillipines,female,60.0,3.0
+995,1/29/2020,Finland,female,32.0,1.0
+998,2/24/2020,Spain,male,69.0,3.0
+1000,2/25/2020,Spain,female,36.0,5.0
+1002,2/25/2020,Spain,male,31.0,7.0
+1006,2/26/2020,Spain,male,22.0,11.0
+1007,2/26/2020,Spain,male,62.0,12.0
+1009,2/27/2020,Spain,male,44.0,14.0
+1012,2/27/2020,Spain,female,22.0,17.0
+1013,2/27/2020,Spain,male,30.0,18.0
+1021,2/28/2020,Spain,male,28.0,26.0
+1022,2/28/2020,Spain,male,42.0,27.0
+1023,2/28/2020,Spain,male,53.0,28.0
+1025,2/28/2020,Spain,male,55.0,30.0
+1026,2/28/2020,Spain,female,25.0,31.0
+1027,2/28/2020,Spain,male,58.0,32.0
+1029,2/28/2020,Spain,female,27.0,34.0
+1030,1/31/2020,Sweden,female,25.0,1.0
+1052,2/21/2020,Lebanon,female,45.0,1.0
+1084,2/25/2020,Switzerland,male,70.0,1.0
